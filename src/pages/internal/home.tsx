@@ -55,13 +55,8 @@ function InternalHome() {
         <>
             <Head defaultTitle="Home" />
             <div className="home">
-                <div className="logo">
-                    <svg
-                        version="1.1"
-                        xmlns="http://www.w3.org/2000/svg"
-                        xmlnsXlink="http://www.w3.org/1999/xlink"
-                        viewBox="0 0 24 24"
-                    >
+                <div className="logo"> <src"Plutonium.svg"
+                  
                         <title>Plutonium</title>
                         <path
                             fill={theme}
